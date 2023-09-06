@@ -1,14 +1,2 @@
-add raw/character/playercommon.pac
 add raw/character/sonic.pac
-add raw/character/soniccyber.pac
-add raw/character/supersonic.pac
-add raw/event/scene/bo1xxx.pac
-add raw/event/scene/bo3xxx.pac
-add raw/event/scene/zev_knight_atk_sp01.pac
-add raw/event/scene/zev_knight_sonic_sp01.pac
-add raw/event/scene/zev_knight_sonic_sp01_phase2.pac
-add raw/EventCommon.pac
-add raw/ui/ui_credits_es.pac
-add raw/ui/ui_gamemodetitle_es.pac
-add raw/EffectCommon.pac
 add mod.ini
