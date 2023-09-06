@@ -10,4 +10,5 @@ add raw/event/scene/zev_knight_sonic_sp01_phase2.pac
 add raw/EventCommon.pac
 add raw/ui/ui_credits_es.pac
 add raw/ui/ui_gamemodetitle_es.pac
+add raw/EffectCommon.pac
 add mod.ini
