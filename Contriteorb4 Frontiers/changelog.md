@@ -1,4 +1,6 @@
 ## *Contriteorb4 Frontiers* V.1.02
+- Better quality in the title "Contri Frontiers" (Title)
+## *Contriteorb4 Frontiers* V.1.02
 - Add all mod!
 ## *Contriteorb4 Frontiers* V.1.01
 - Better quality in the model. (Sonic Model)
