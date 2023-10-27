@@ -1,4 +1,4 @@
-## *Contriteorb4 Frontiers* V.1.2
+## *Contriteorb4 Frontiers* V.1.15
 - Deleting files from the mod. (Temporary reorganization)
 ## *Contriteorb4 Frontiers* V.1.14
 - Emergency Update for Sonic Frontiers 1.40 (Makes the mod playable)
