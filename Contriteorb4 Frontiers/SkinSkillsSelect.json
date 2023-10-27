@@ -1,0 +1,34 @@
+{
+	"Groups": [
+	   {
+		  "Name": "main",
+		  "DisplayName": "Contriteorb4 Frontiers",
+		  "Elements": [
+		     {
+				 "Name": "IncludeDir1",
+				 "DisplayName": "Skin Select",
+				 "Description": [
+					"Change the Contriteorb4 skin for the one you like the most!"
+				],
+				"Type": "SkinSelect",
+				"MinValue": null,
+				"MaxValue": null,
+				"DefaultValue": "Original Model"
+			
+			 }
+		]
+	  }
+	],
+	"Enums": {
+	 "SkinSelect": [
+	   {
+		 "DisplayName": "Original Model",
+		 "Value": "Original",
+		 "Description": [
+			""
+		]
+	  }
+	]
+   },
+   "IniFile": "mod.ini"
+}
