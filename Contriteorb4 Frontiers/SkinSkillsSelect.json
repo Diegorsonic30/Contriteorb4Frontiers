@@ -1,34 +1,88 @@
 {
-	"Groups": [
-	   {
-		  "Name": "main",
-		  "DisplayName": "Contriteorb4 Frontiers",
-		  "Elements": [
-		     {
-				 "Name": "IncludeDir1",
-				 "DisplayName": "Skin Select",
-				 "Description": [
-					"Change the Contriteorb4 skin for the one you like the most!"
-				],
-				"Type": "SkinSelect",
-				"MinValue": null,
-				"MaxValue": null,
-				"DefaultValue": "Original Model"
-			
-			 }
-		]
-	  }
-	],
-	"Enums": {
-	 "SkinSelect": [
-	   {
-		 "DisplayName": "Original Model",
-		 "Value": "Original",
-		 "Description": [
-			""
-		]
-	  }
-	]
-   },
-   "IniFile": "mod.ini"
+  "Groups": [
+    {
+      "Name": "main",
+      "DisplayName": "Contriteorb4 Skins",
+      "Elements": [
+        {
+          "Name": "IncludeDir1",
+          "DisplayName": "Skin Select",
+          "Description": [
+            "Change the Contriteorb4 skin for the one you like the most!"
+          ],
+          "Type": "SkinSelect",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Remastered Model"
+
+        }
+      ]
+    },
+    {
+      "Name": "main",
+      "DisplayName": "Friends Skins",
+      "Elements": [
+        {
+          "Name": "IncludeDir2",
+          "DisplayName": "Amy Skin",
+          "Description": [
+            "Change the Amy skins from the friends Contriteorb4!"
+          ],
+          "Type": "Amy Skin",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Deactivated"
+        },
+        {
+          "Name": "IncludeDir3",
+          "DisplayName": "Knuckles Skin",
+          "Description": [
+            "Change the Knuckles skins from the friends Contriteorb4!"
+          ],
+          "Type": "Knuckles Skin",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Deactivated"
+        }
+      ]
+    }
+  ],
+
+   "Enums": {
+     "SkinSelect": [
+        {
+          "DisplayName": "Original Model",
+          "Value": "Original",
+          "Description": [
+            ""
+          ]
+        },
+        {
+          "DisplayName": "Remastered Model",
+          "Value": "Remastered",
+          "Description": [
+            ""
+          ]
+        }
+      ],
+      "Amy Skin": [
+        {
+          "DisplayName": "Desactivated",
+          "Value": "main",
+          "Description": [
+            ""
+          ]
+        }
+      ],
+      "Knuckles Skin": [
+        {
+          "DisplayName": "Desactivated",
+          "Value": "main",
+          "Description": [
+            ""
+          ]
+        }
+      ]
+    },
+  "IniFile": "mod.ini"
 }
