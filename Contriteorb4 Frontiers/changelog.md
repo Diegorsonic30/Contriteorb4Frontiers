@@ -1,5 +1,3 @@
-## *Contriteorb4 Frontiers - Remastered Update* V.2.1
-- Adds a new skin and default for the mod "Remastered version". A remastered version of the models, effects and so on of the original Contriteorb4 model, both as base form, star form, cybercorrupted and Phase 2 star form.
 ## *Contriteorb4 Frontiers - Final Horizon Update* V.2.0
 - Add Star Form Phase 2 (supersonic2.pac) and a file reorganization.
 ## *Contriteorb4 Frontiers* V.1.15
