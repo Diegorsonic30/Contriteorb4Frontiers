@@ -1,4 +1,4 @@
-## *Contriteorb4 Frontiers - Final Horizon Update* V.2.0
+## *Contriteorb4 Frontiers - Final Horizon Update* V.1.5
 - Add Star Form Phase 2 (supersonic2.pac) and a file reorganization.
 ## *Contriteorb4 Frontiers* V.1.15
 - Deleting files from the mod. (Temporary reorganization)
