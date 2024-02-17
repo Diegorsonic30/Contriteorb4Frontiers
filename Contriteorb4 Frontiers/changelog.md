@@ -1,3 +1,5 @@
+## *Contriteorb4 Frontiers - Final Horizon Update* V.2.2
+- A small update to improve the speculars of the "remastered" skin.
 ## *Contriteorb4 Frontiers - Final Horizon Update* V.2.1
 - Adds a new skin called "Remastered".
 ## *Contriteorb4 Frontiers - Final Horizon Update* V.2.0
