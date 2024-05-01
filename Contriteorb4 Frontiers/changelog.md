@@ -1,3 +1,7 @@
+## *Contriteorb4 Frontiers - Cyber Fix* V.2.3
+- The Cyber Corruption movement in the Remastered model has been considerably fixed.
+- Super Cyber and Super Damage version files have been added. For this copy and replace all files from
+  “supersoniccyber.pac” and “supersonicdamage.pac” to “zev_sp_riflebeast.pac” of the REALTIME CUTSCENES.
 ## *Contriteorb4 Frontiers - Final Horizon Update* V.2.2
 - A small update to improve the speculars of the "remastered" skin.
 ## *Contriteorb4 Frontiers - Final Horizon Update* V.2.1
