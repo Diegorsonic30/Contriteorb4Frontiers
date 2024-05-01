@@ -12,6 +12,8 @@ add Remastered/raw/character/sonic.pac
 add Remastered/raw/character/supersonic.pac
 add Remastered/raw/character/soniccyber.pac
 add Remastered/raw/character/supersonic2.pac
+add Remastered/raw/character/supersoniccyber.pac
+add Remastered/raw/character/supersonicdamage.pac
 add Remastered/raw/character/playercommonsonic.pac
 add Remastered/raw/EffectCommon.pac
 add Remastered/raw/EventCommon.pac
